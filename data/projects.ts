@@ -31,7 +31,7 @@ export const projects: Project[] = [
     techStack: ["Next.js", "shadcn/ui", "TailwindCSS"],
     image: "/images/my-portfolio.png",
     githubLink: "https://github.com/ioannischtz/my-portfolio",
-    demoLink: "",
+    demoLink: "https://i-chatzi-portfolio.vercel.app/",
   },
   {
     title: "Psychophysics Connect(Frontend)",
