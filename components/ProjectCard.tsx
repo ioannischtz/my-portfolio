@@ -4,6 +4,7 @@ import Image from "next/image";
 import React from "react";
 import { buttonVariants } from "@/components/ui/button"; // Importing shadcn/ui's Button
 
+//eslint-disable-next-line
 interface ProjectCardProps extends Project {}
 
 export default function ProjectCard({

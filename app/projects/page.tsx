@@ -7,8 +7,7 @@ export default function ProjectsPage() {
     <section className="container mx-auto px-4 py-8 space-y-6">
       <h1 className="text-4xl font-bold text-center">My Projects</h1>
       <p className="text-lg text-gray-700 leading-relaxed text-center">
-        Here's a collection of projects I've worked on, showcasing my skills in
-        software development.
+        Here's a collection of projects I've worked on, showcasing my skills in software development.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
