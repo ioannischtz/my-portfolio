@@ -10,7 +10,7 @@ export default function HomePage() {
     <div className="flex flex-col items-center justify-center text-center space-y-4">
       <h1 className="text-4xl font-bold">Welcome to My Portfolio</h1>
       <p className="text-lg w-1/2">
-      I'm Ioannis Chatzianagnostou, a versatile Software Engineer with professional experience in Frontend Web Development and a deep passion for all things audio.
+      I&apos;m Ioannis Chatzianagnostou, a versatile Software Engineer with professional experience in Frontend Web Development and a deep passion for all things audio.
       </p>
       <div className="flex flex-col items-center justify-center w-full space-y-4">
         <div className="relative w-full h-48">

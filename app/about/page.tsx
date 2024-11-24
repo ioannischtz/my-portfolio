@@ -8,10 +8,10 @@ export default function AboutPage() {
       <section className="mb-8">
         <h1 className="text-3xl font-bold mb-4">About Me</h1>
         <p className="mb-4">
-          Hi there! I’m Ioannis, a Software Engineer with a passion for building innovative solutions, particularly in Frontend Web Development and audio-related technologies. 
+          Hi there! I&apos;m Ioannis, a Software Engineer with a passion for building innovative solutions, particularly in Frontend Web Development and audio-related technologies. 
         </p>
         <p>
-          I’m always excited to tackle challenges, learn new skills, and combine technical expertise with creativity to make impactful contributions. When I’m not coding, you’ll find me immersed in art or music!
+          I&apos;m always excited to tackle challenges, learn new skills, and combine technical expertise with creativity to make impactful contributions. When I&apos;m not coding, you&apos;ll find me immersed in art or music!
         </p>
       </section>
 
@@ -19,7 +19,7 @@ export default function AboutPage() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Software Skills</h2>
         <p className="mb-4">
-          I’m proficient in a variety of technologies, programming languages, and frameworks, including:
+          I&apos;m proficient in a variety of technologies, programming languages, and frameworks, including:
         </p>
         <ul className="list-disc list-inside">
           <li>Programming Languages: JavaScript, TypeScript, Python, C++, Kotlin, Rust</li>
@@ -51,7 +51,7 @@ export default function AboutPage() {
        <div className="p-7 bg-gray-100 rounded-md shadow-md text-center">
          <h2 className="text-xl font-semibold mb-2">Fun Fact</h2>
          <p className="text-gray-701">
-           I’m currently pursuing a PhD in computational modeling of auditory perception, 
+           I&apos;m currently pursuing a PhD in computational modeling of auditory perception, 
            combining psycho-physical methods, imaging techniques, and programming to study 
            how people perceive timbre! 
          </p>
@@ -87,7 +87,7 @@ export default function AboutPage() {
         <div>
           <h3 className="text-xl font-medium mb-2">Playing the Electric Guitar</h3>
           <p className="mb-4">
-            Here’s a video of one of my guitar performances that I’m proud to share:
+            Here&apos;s a video of one of my guitar performances that I&apos;m proud to share:
           </p>
           <div className="aspect-w-16 aspect-h-9">
             <iframe 
