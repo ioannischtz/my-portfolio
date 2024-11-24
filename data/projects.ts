@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: "My Portfolio",
     description: "A showcase of my projects, skills, and experience.",
     techStack: ["Next.js", "shadcn/ui", "TailwindCSS"],
-    image: "/images/my-portfolio.png",
+    image: "/images/portfolio.png",
     githubLink: "https://github.com/ioannischtz/my-portfolio",
     demoLink: "https://i-chatzi-portfolio.vercel.app/",
   },
