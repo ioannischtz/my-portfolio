@@ -26,6 +26,14 @@ export const projects: Project[] = [
     githubLink: "https://github.com/ioannischtz/vpress-forntend-test",
   },
   {
+    title: "My Portfolio",
+    description: "A showcase of my projects, skills, and experience.",
+    techStack: ["Next.js", "shadcn/ui", "TailwindCSS"],
+    image: "/images/my-portfolio.png",
+    githubLink: "https://github.com/ioannischtz/my-portfolio",
+    demoLink: "",
+  },
+  {
     title: "Psychophysics Connect(Frontend)",
     description: "SaaS for remote psychophysics experiments.",
     image: "/images/psychophysics-connect.png",

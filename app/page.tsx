@@ -1,28 +1,11 @@
-'use client'
-
 import Link from "next/link";
 import Image from "next/image";
 import { buttonVariants } from "@/components/ui/button"; // Importing shadcn/ui's Button
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
 import ProjectCard from "@/components/ProjectCard";
 import { projects } from "@/data/projects";
-import { type CarouselApi } from "@/components/ui/carousel"
-import React from "react";
 
 export default function HomePage() {
-  const [api, setApi] = React.useState<CarouselApi>();
-  const [currentSlide, setCurrentSlide] = React.useState(0);
-
-  React.useEffect(() => {
-    if (!api) {
-      return
-    }
- 
-    api.on("select", () => {
-      // Do something on select.
-    })
-  }, [api])
-  
   return (
     <div className="flex flex-col items-center justify-center text-center space-y-4">
       <h1 className="text-4xl font-bold">Welcome to My Portfolio</h1>
