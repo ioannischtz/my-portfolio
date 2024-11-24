@@ -35,7 +35,7 @@ export default function HomePage() {
           className="w-full max-w-6xl"
         >
           <CarouselContent>
-            {projects.map((project, index) => (
+            {projects.map((project) => (
               <CarouselItem
                 key={project.title}
                 className="md:basis-1/2 lg:basis-1/3 transition-transform duration-300"
